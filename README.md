@@ -15,9 +15,9 @@ Current versions: `v1`
 
 ### Icons
 
-- [JPG](/assets/v1/icon/jpg)
-- [PNG](/assets/v1/icon/png)
-- [SVG](/assets/v1/icon/svg)
+- [JPG](/assets/v1/icons/jpg)
+- [PNG](/assets/v1/icons/png)
+- [SVG](/assets/v1/icons/svg)
 
 ## Color Palet
 
