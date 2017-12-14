@@ -21,7 +21,7 @@ Current versions: `v1`
 
 ## Color Pallet
 
-```
+```sass
 $brand: #0176E9
 $brand-dark: #0F399D
 $text: #312E2E
@@ -31,10 +31,10 @@ $white: #FFFFFF
 
 ## Typography
 
-#### Main
+### Primary
 Montserrat Medium
 https://fonts.google.com/specimen/Montserrat
 
-#### Secondary
+### Secondary
 Hind Regular
 https://fonts.google.com/specimen/Hind
