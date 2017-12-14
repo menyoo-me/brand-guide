@@ -19,11 +19,13 @@ Current versions: `v1`
 - [PNG](/assets/v1/icons/png)
 - [SVG](/assets/v1/icons/svg)
 
-## Color Palet
+## Color Pallet
 
 ```
 $brand: #0176E9
 $brand-dark: #0F399D
+$text: #312E2E
+$text-light: #616368
 $white: #FFFFFF
 ```
 
