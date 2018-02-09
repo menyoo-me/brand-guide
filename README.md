@@ -1,29 +1,38 @@
 # Menyoo Brand Guide
 
-Current versions: `v1`
+Current versions: `v2`
 
 ## Assets
 
 ### Logos
 
-- [EPS](/assets//v1/logo/eps)
-- [JPG](/assets//v1/logo/jpg)
-- [PNG](/assets//v1/logo/png)
-- [PSD](/assets//v1/logo/psd)
-- [SKETCH](/assets//v1/logo/sketch)
-- [SVG](/assets//v1/logo/svg)
+- [EPS](/assets/v2/logo/eps)
+- [JPG](/assets/v2/logo/jpg)
+- [PNG](/assets/v2/logo/png)
+- [PSD](/assets/v2/logo/psd)
+- [SKETCH](/assets/v2/logo/sketch)
+- [SVG](/assets/v2/logo/svg)
 
 ### Icons
 
-- [JPG](/assets/v1/icons/jpg)
-- [PNG](/assets/v1/icons/png)
-- [SVG](/assets/v1/icons/svg)
+- [JPG](/assets/v2/icons/jpg)
+- [PNG](/assets/v2/icons/png)
+- [SVG](/assets/v2/icons/svg)
 
 ## Color Pallet
 
+### Dark Slate Blue
+
+<div style="width:100px; height:100px; background-color:#472F90"></div>
+
+### Dark Orange
+
+<div style="width:100px; height:100px; background-color:#FD8A11"></div>
+
+
 ```sass
-$brand: #0176E9
-$brand-dark: #0F399D
+$dark-slate-blue: #472F90
+$dark-orange: #FD8A11
 $text: #312E2E
 $text-light: #616368
 $white: #FFFFFF
@@ -31,10 +40,8 @@ $white: #FFFFFF
 
 ## Typography
 
-### Primary
-Montserrat Medium
-https://fonts.google.com/specimen/Montserrat
+#### Lato Medium
+https://fonts.google.com/specimen/Lato
 
-### Secondary
-Hind Regular
-https://fonts.google.com/specimen/Hind
+#### Crimson Text
+https://fonts.google.com/specimen/Crimson+Text
