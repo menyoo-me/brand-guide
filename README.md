@@ -1,29 +1,17 @@
 # Menyoo Brand Guide
 
-Current versions: `v1`
-
 ## Assets
 
 ### Logos
 
-- [EPS](/assets//v1/logo/eps)
-- [JPG](/assets//v1/logo/jpg)
-- [PNG](/assets//v1/logo/png)
-- [PSD](/assets//v1/logo/psd)
-- [SKETCH](/assets//v1/logo/sketch)
-- [SVG](/assets//v1/logo/svg)
+- [EPS](/assets/logo/)
 
-### Icons
-
-- [JPG](/assets/v1/icons/jpg)
-- [PNG](/assets/v1/icons/png)
-- [SVG](/assets/v1/icons/svg)
 
 ## Color Pallet
 
 ```sass
-$brand: #0176E9
-$brand-dark: #0F399D
+$dark-slate-blue: #472F90
+$dark-orange: #FD8A11
 $text: #312E2E
 $text-light: #616368
 $white: #FFFFFF
@@ -31,10 +19,13 @@ $white: #FFFFFF
 
 ## Typography
 
-### Primary
-Montserrat Medium
-https://fonts.google.com/specimen/Montserrat
+#### Lato Medium
+https://fonts.google.com/specimen/Lato
 
-### Secondary
-Hind Regular
-https://fonts.google.com/specimen/Hind
+#### Crimson Text
+https://fonts.google.com/specimen/Crimson+Text
+
+
+## Changelog
+
+- [v1](https://github.com/vicainelli/menyoo-brand-guide/releases/tag/v1.0)
