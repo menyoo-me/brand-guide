@@ -1,7 +1,5 @@
 # Menyoo Brand Guide
 
-Current versions: `v2`
-
 ## Assets
 
 ### Logos
