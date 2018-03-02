@@ -4,7 +4,7 @@
 
 ### Logos
 
-- [EPS](/assets/logo/)
+- [PNG/JPG](/assets/logo/)
 
 
 ## Color Pallet
