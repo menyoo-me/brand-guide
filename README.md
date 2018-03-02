@@ -6,12 +6,7 @@ Current versions: `v2`
 
 ### Logos
 
-- [EPS](/assets/v2/logo/eps)
-- [JPG](/assets/v2/logo/jpg)
-- [PNG](/assets/v2/logo/png)
-- [PSD](/assets/v2/logo/psd)
-- [SKETCH](/assets/v2/logo/sketch)
-- [SVG](/assets/v2/logo/svg)
+- [EPS](/assets/logo/)
 
 
 ## Color Pallet
