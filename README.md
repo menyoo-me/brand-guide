@@ -21,15 +21,6 @@ Current versions: `v2`
 
 ## Color Pallet
 
-### Dark Slate Blue
-
-<div style="width:100px; height:100px; background-color:#472F90"></div>
-
-### Dark Orange
-
-<div style="width:100px; height:100px; background-color:#FD8A11"></div>
-
-
 ```sass
 $dark-slate-blue: #472F90
 $dark-orange: #FD8A11
