@@ -24,3 +24,8 @@ https://fonts.google.com/specimen/Lato
 
 #### Crimson Text
 https://fonts.google.com/specimen/Crimson+Text
+
+
+## Changelog
+
+- [v1](https://github.com/vicainelli/menyoo-brand-guide/releases/tag/v1.0)
