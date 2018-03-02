@@ -13,11 +13,6 @@ Current versions: `v2`
 - [SKETCH](/assets/v2/logo/sketch)
 - [SVG](/assets/v2/logo/svg)
 
-### Icons
-
-- [JPG](/assets/v2/icons/jpg)
-- [PNG](/assets/v2/icons/png)
-- [SVG](/assets/v2/icons/svg)
 
 ## Color Pallet
 
