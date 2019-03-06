@@ -1,0 +1,14 @@
+{
+
+  // Neutrals
+  'color-cold-grey-050': '#FEFDFF',
+  'color-cold-grey-100': '#F9F8FC',
+  'color-cold-grey-200': '#F5F2FA',
+  'color-cold-grey-300': '#E8E3F0',
+  'color-cold-grey-400': '#D6D1E1',
+  'color-cold-grey-500': '#BFBACB',
+  'color-cold-grey-600': '#A19BAC',
+  'color-cold-grey-700': '#7A7583',
+  'color-cold-grey-800': '#4B4851',
+  'color-cold-grey-900': '#1A191C',
+}
