@@ -1,4 +1,9 @@
-# Menyoo Brand Guide
+# Menyoo Brand Guidelines
+
+
+## Naming
+
+"Menyoo" is a single world, always spelled with a capital "M". It's a the brand name of both our company and our application.  Social media tags should use `#menyoo` 
 
 ## Assets
 
@@ -7,15 +12,11 @@
 - [PNG/JPG](/assets/logo/)
 
 
-## Color Pallet
+## Colors
 
-```sass
-$dark-slate-blue: #472F90
-$dark-orange: #FD8A11
-$text: #312E2E
-$text-light: #616368
-$white: #FFFFFF
-```
+* Dark Slate Blue: `#472F90`
+* Dark Orange: `#FD8A11`
+* Black: `#312E2E`
 
 ### Color Shades
 
@@ -62,4 +63,4 @@ https://fonts.google.com/specimen/Crimson+Text
 
 ## Changelog
 
-- [v1](https://github.com/vicainelli/menyoo-brand-guide/releases/tag/v1.0)
+- [v1](https://github.com/vicainelli/menyoo-brand-guide/releases/tag/v1.2)
